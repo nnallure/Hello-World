@@ -1,6 +1,6 @@
-## Table of contents
+### Table of contents
 
-1. (#Project-Title)
+1. [PROJECT TITLE](#Project-Title)
 2. [DESCRIPTION](#Description)
 3. [HOW TO RUN PROGRAM](#How-to-run-program)
 4. [FILES USED](#files-used)
