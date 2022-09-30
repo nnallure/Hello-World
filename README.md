@@ -1,14 +1,11 @@
-# Hello_World
-Practice Repository 
 ## Table of contents
 
-I'm currently the Professional Director for the M.S. Business Analytics program and I also teach the Business Analytics and Information Systems Professional Preparation courses at The University of Iowa's Tippie College of Business.
-- [PROJECT TITLE](#Project-Title)
-- [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
-- [FILES USED](#files-used)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING](#versioning)
+1. [PROJECT TITLE](#Project-Title)
+2. [DESCRIPTION](#Description)
+3. [HOW TO RUN PROGRAM](#How-to-run-program)
+4. [FILES USED](#files-used)
+5. [ADDITIONAL DOCUMENTATION](#additional-documentation)
+6. [VERSIONING](#versioning)
 
 ## Project Title
 
